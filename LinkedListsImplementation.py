@@ -1,3 +1,4 @@
+# Secon Commit
 
 class Node: # create a node, set value to value and pointer to None.
     def __init__(self, value): # constructor to create a node
